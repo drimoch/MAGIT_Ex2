@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="output">
+    <output-path>$PROJECT_DIR$/out/artifacts/output</output-path>
+    <root id="root">
+      <element id="library" level="project" name="commons-codec-1.13" />
+      <element id="artifact" artifact-name="Engine:jar" />
+      <element id="artifact" artifact-name="ConsoleUI:jar" />
+    </root>
+  </artifact>
+</component>
